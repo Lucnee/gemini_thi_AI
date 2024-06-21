@@ -1,0 +1,34 @@
+{
+    "group": "Nhóm A",
+    "members": [
+      {
+        "name": "Nguyễn Văn A",
+        "age": 28,
+        "role": "Trưởng nhóm",
+        "email": "nguyenvana@example.com",
+        "phone": "0123456789"
+      },
+      {
+        "name": "Trần Thị B",
+        "age": 24,
+        "role": "Nhà phát triển",
+        "email": "tranthib@example.com",
+        "phone": "0987654321"
+      },
+      {
+        "name": "Lê Văn C",
+        "age": 26,
+        "role": "Nhà thiết kế",
+        "email": "levanc@example.com",
+        "phone": "0912345678"
+      },
+      {
+        "name": "Phạm Thị D",
+        "age": 22,
+        "role": "Nhà phân tích",
+        "email": "phamthid@example.com",
+        "phone": "0934567890"
+      }
+    ]
+  }
+  
